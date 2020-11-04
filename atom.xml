@@ -1,15 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sillydu.github.io</id>
-    <title>一个新的网站</title>
-    <updated>2020-11-03T14:51:10.331Z</updated>
+    <title>言之不预</title>
+    <updated>2020-11-04T02:41:13.473Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://sillydu.github.io"/>
     <link rel="self" href="https://sillydu.github.io/atom.xml"/>
-    <subtitle>最简单</subtitle>
+    <subtitle>人类正在被信息驯化</subtitle>
     <logo>https://sillydu.github.io/images/avatar.png</logo>
     <icon>https://sillydu.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, 一个新的网站</rights>
+    <rights>All rights reserved 2020, 言之不预</rights>
+    <entry>
+        <title type="html"><![CDATA[【专栏推荐】超智能体——知乎·公众号]]></title>
+        <id>https://sillydu.github.io/post/zhuan-lan-tui-jian-chao-zhi-neng-ti-zhi-hu-gong-zhong-hao/</id>
+        <link href="https://sillydu.github.io/post/zhuan-lan-tui-jian-chao-zhi-neng-ti-zhi-hu-gong-zhong-hao/">
+        </link>
+        <updated>2020-11-04T02:39:54.000Z</updated>
+        <content type="html"><![CDATA[<p>其实推荐的是专栏里的“学习观”系列。<br>
+由于一些原因，开始兼职讲课。最开始选的课题是《系统性学习》，大体上是想帮助学员摆脱低效记忆，焦虑学习，快餐偏好。掌握一些提升兴趣，鉴别信息，升维思考的能力。后来又被要求讲解《熵的世界观》，从热力学讲到耗散结构。一年多的授课，觉得所有的课题都讲不透。自知方向是对的，但是内容不够连续，每次讲到一半就如鲠在喉。<br>
+去年年底了解机器学习的内容时，偶尔在知乎上刷到了学习观的视频。刚开始看到的时候，是一种英雄所见略同之感。但是更新到4.5的时候，我才恍然大悟。原来机器学习的理论和我一直在思考的基础教育理论可以如此结合。当时就素质三连，还订阅了“超智能体”的公众号。陆陆续续到几天前，看完了01-14集的总集篇。又完整回顾了14集的内容，对作者实在是佩服。我讲了一年多的学习和熵，但从没想过可以将所有内容完整的穿在一起，形成如此严密的体系。视频的节奏和气势也非常紧凑，看得人全身起鸡皮疙瘩。<br>
+“生命以负熵为食。”听到这句话的时候，我才发现自己过去的认知是多么的浅薄。熵与生命，命运与选择，信息与学习，一切都连起来了。我觉得我世界观最大的缺口被补完了，而寻找世界的答案的愿望又出现一丝希望了。<br>
+作者似乎在准备博士论文，然后写专栏的目的也是为了出书。非常期待最后成书的出现，在等待的时候，我准备把自己的课程重新洗版。望有所成，与作者共勉。</p>
+<p><a href="https://zhuanlan.zhihu.com/YJango">专栏传送门</a>作者真的牛！</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【记录】极致空间利用——10L ITX装机]]></title>
         <id>https://sillydu.github.io/post/ji-lu-ji-zhi-kong-jian-li-yong-10l-itx-zhuang-ji/</id>
@@ -19,7 +33,7 @@
         <content type="html"><![CDATA[<hr>
 <p>一直很想装台小钢炮，但是每次一看到高性价比的M-ATX就会跑偏。今年下定决心搞台ITX机，于是开始写需求。写完之后发现现在的配置足够再用一两年，只需要换个主板和机箱就好了。</p>
 <p>主板选了华擎妖板，机箱是个麻烦事。ITX最大的问题是散热和安装，所有电源压CPU的机箱都被否了。所有的A4箱也被否了，1U电源噪音和巨烫的显卡延长线都不能接受。没有3.5硬盘位的机箱也否了，因为要处理媒体文件，素材的体积不是2.5硬盘的小身板装得下的。然后14L以上的全否了，14L以内有不少优秀的M-ATX机箱。</p>
-<p>看了CHH的瞎折腾和阿财做的ITX攻略，一眼相中了<a href="https://www.chiphell.com/space-uid-286761.html">mica69678</a>设计的<a href="https://www.chiphell.com/thread-1309926-1-1.html">CUBE 6</a>。设计图卖给了清风工作室，现在叫Breeze Audio CUBE。清风还自己改良（lie hua）设计了2代。全黑化的箱体，厚实的板件，卧式的结构，165mm的散热器兼容，200mm的显卡兼容，做到了10L出头。难得的是在几乎塞到没有缝隙的空间里，还有设计风道。虽然这个&quot;风道&quot;不是很完善。但是基本满足了我对小钢炮的全部要求。</p>
+<p>看了CHH的瞎折腾和阿财做的ITX攻略，一眼相中了<a href="https://www.chiphell.com/space-uid-286761.html">mica69678</a>设计的<a href="https://www.chiphell.com/thread-1309926-1-1.html">CUBE 6</a>。设计图卖给了清风工作室，现在叫Breeze Audio CUBE。清风还自己改(lie)良(hua)设计了2代。全黑化的箱体，厚实的板件，卧式的结构，165mm的散热器兼容，200mm的显卡兼容，做到了10L出头。难得的是在几乎塞到没有缝隙的空间里，还有设计风道。虽然这个&quot;风道&quot;不是很完善。但是基本满足了我对小钢炮的全部要求。</p>
 <h3 id="散热">散热</h3>
 <p>这里重点提一下卧式结构，很多人以为只是为了减少主板和显卡的变形。其实更重要的是增强CPU的导热，硅脂的导热率有极限，但是硅脂的厚度对导热的影响更大。所以卧式机箱可以利用散热器的自重，压实硅脂，把地摊硅脂用出液态金属的导热效果。</p>
 <figure data-type="image" tabindex="1"><img src="https://i.loli.net/2019/04/03/5ca425648ee3b.jpeg" alt="空间利用" loading="lazy"></figure>
